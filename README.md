@@ -1,6 +1,14 @@
 # Data Science & AI Engineering Portfolio
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange.svg)](https://jupyter.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10+-orange.svg)](https://www.tensorflow.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.1+-blue.svg)](https://scikit-learn.org/)
+
 Welcome to my portfolio! This repository showcases my expertise in **Data Analysis**, **Data Science**, and **AI Engineering** through hands-on projects and implementations.
+
+> 💡 **Note**: All projects use synthetic data for demonstration purposes and are fully reproducible.
 
 ## 👨‍💻 About Me
 
@@ -104,13 +112,26 @@ Portfolio/
 └── README.md
 ```
 
+## 🎓 What You'll Find Here
+
+Each project demonstrates:
+- ✅ **Real-world problem solving** with practical applications
+- ✅ **Clean, well-documented code** following best practices
+- ✅ **Comprehensive analysis** from data exploration to insights
+- ✅ **Production-ready implementations** with proper structure
+- ✅ **Clear visualizations** for effective communication
+
+## 📖 Documentation
+
+For detailed information on running and contributing to these projects, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## 📫 Contact
 
 Feel free to reach out if you'd like to discuss these projects or potential opportunities:
 
 - **GitHub**: [AlistairLeys](https://github.com/AlistairLeys)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/your-profile)
-- **Email**: your.email@example.com
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/)
+- **Email**: Contact via GitHub
 
 ## 📝 License
 
