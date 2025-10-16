@@ -1,0 +1,42 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+
+# Build and Distribution
+dist/
+build/
+*.min.js
+*.min.css
+
+# Dependencies
+node_modules/
+bower_components/
+
+# Environment Variables
+.env
+.env.local
+.env.production
+
+# Backup Files
+*.bak
+*.backup
